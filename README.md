@@ -33,7 +33,7 @@ Ao final deve se exibir uma mensagem:
 
 - **Linguagem**: Python
 - **Biblioteca**: Random (nativa do Python)
-- **Conhecimentos Aplicados:** Variáveis, Operadores, Estruturas de Decição e Funções
+- **Conhecimentos Aplicados:** Variáveis, Operadores, Estruturas de Decisão e Funções
 
 ## Imagem
 ![Saida do terminal](https://files.catbox.moe/oi2pgk.png)
